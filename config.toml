@@ -1,0 +1,9 @@
+baseURL = "https://foreversam.github.io/"
+languageCode = "en-us"
+title = "foreversam"
+theme = "etch"
+
+[menu]
+  [[menu.main]]
+    name = "about"
+    url = "/about/"
